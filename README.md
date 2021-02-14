@@ -15,6 +15,7 @@ Patient screening application designed to assist in the organization of patient 
 ## Installation
 None
 ## Usage
+https://gentle-hollows-60962.herokuapp.com/login
 1. Log in with existing nurse login information: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Username: nurse1 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Password: password <br />
